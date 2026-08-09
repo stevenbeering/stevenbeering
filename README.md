@@ -13,6 +13,8 @@
 | MS in Business Analytics (Prospective) | Purdue University | 2027 |
 | Graduate Certificate in Leadership, Change Management, and Negotiations (Prospective) | Purdue University | 2027 |
 
+<h3 align="left">Projects</h3>
+
 - 🔭 I’m currently working on **a final project for a course titled AI for Business Analytics. The project focus is using supervised learning techniques to identify elements of beer reviews to determine which factors are most significant for determining the overall rating for a beer.**
 
 <h3 align="left">Connect with me:</h3>
