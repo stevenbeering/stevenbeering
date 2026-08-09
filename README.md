@@ -18,6 +18,10 @@
 - 🔭 I’m currently working on **a final project for a course titled AI for Business Analytics. The project focus is using supervised learning techniques to identify elements of beer reviews to determine which factors are most significant for determining the overall rating for a beer.**
 
 <h3 align="left">Connect with me:</h3>
+
+- Email: sdbeering@purdueforlife.org
+- Phone: (630) 464-2592
+
 <p align="left">
 <a href="https://twitter.com/sdbeering" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdbeering" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/steven-beering-05b271192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-beering-05b271192" height="30" width="40" /></a>
