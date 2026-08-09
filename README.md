@@ -15,6 +15,16 @@
 
 <h3 align="left">Projects</h3>
 
+### NYC Airbnb Nightly Price Predictor — Multiple Linear Regression
+Applied multiple linear regression to elements of Airbnb listings in NYC to identify significant factors for determining nightly rental price.
+**Skills:** Python · scikit-learn · Matplotlib
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://ff48d14a7667f45a86.gradio.live/)
+
+### IBM Employee Attrition — K-Means Clustering
+Applied K-Means to segment the IBM employee base, determine attrition rate among these segments, and derive insight into segments vulnerable to attrition.
+**Skills:** Python · scikit-learn · Matplotlib
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://af55f74d-c1b3-403e-a41e-4f39b177748e.plotly.app/)
+
 - 🔭 I’m currently working on **a final project for a course titled AI for Business Analytics. The project focus is using supervised learning techniques to identify elements of beer reviews to determine which factors are most significant for determining the overall rating for a beer.**
 
 <h3 align="left">Connect with me:</h3>
