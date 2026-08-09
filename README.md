@@ -5,6 +5,12 @@
 
 - I am a 2021 graduate of Purdue with a Bachelor of Science in Industrial Engineering. I then spent three years at Epic as a data engineer using Microsoft SQL Server tools to ingest and integrate external medical claims data into core patient records within major hospital systems. In May of 2024, I transitioned to the Business Intelligence team at the Purdue for Life Foundation where I work as a senior data analyst harmonizing alumni and donor data into actionable insights that fuel fundraising strategies and university-wide initiatives. I am currently pursuing a Master of Science in Business Analytics at Purdue University to expand my knowledge of and experience with artificial intelligence in an analytics setting, continue to build my leadership skillset, and position myself to lead IT teams into an everchanging technological future.
 
+| Degree | Institution | Year |
+|--------|-------------|------|
+| BS in Industrial Engineering | Purdue University | 2021 |
+| MS in Business Analytics (Prospective) | Purdue University | 2027 |
+| Graduate Certificate in Leadership, Change Management, and Negotiations (Prospective) | Purdue University | 2027 |
+
 - 🔭 I’m currently working on **a final project for a course titled AI for Business Analytics. The project focus is using supervised learning techniques to identify elements of beer reviews to determine which factors are most significant for determining the overall rating for a beer.**
 
 <h3 align="left">Connect with me:</h3>
